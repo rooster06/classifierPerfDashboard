@@ -28,5 +28,5 @@ This App is an attempt to allow ML/DS practitioners more time to understand thei
 5. Adjust the slider to a threshold of your choosing to create the corresponding metrics - precision, recall and confusion matrix.
 
 ```diff
-- column names must be target and preds, the target variable must be dichotomous only taking the values 0 and 1
+- NOTE: column names must be 'target' and 'preds', the target variable must be dichotomous only taking the values 0 and 1
 ```
